@@ -1,6 +1,6 @@
 # 🚀 Full Stack Intern Portal
 
-This project is a full-stack intern dashboard built for a fundraising portal as part of the Full Stack Developer Internship (Round 1 Task). It demonstrates frontend design, backend API integration, and MongoDB-based data handling.
+This project is a full-stack intern dashboard built for a fundraising portal as part of the Full Stack Developer Internship (Round 1 Task). It demonstrates frontend design, backend API integration, and Local Storage - based data handling.
 
 ## 🛠️ Tech Stack
 
