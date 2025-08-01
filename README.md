@@ -51,6 +51,8 @@ cd backend
 ```
 Dashboard <br>
 <img width="1329" height="968" alt="image" src="https://github.com/user-attachments/assets/1eb9b188-b318-4a29-b9bb-c9a37e99788f" />
+LeaderBoard <br>
+<img width="1917" height="1084" alt="image" src="https://github.com/user-attachments/assets/c9a4d970-459b-43dc-b75e-8c3ad088f355" />
 
 Install Python dependencies:
 
