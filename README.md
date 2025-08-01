@@ -75,8 +75,8 @@ Visit the app in your browser:
 - Dummy login/signup screen (UI only)
 - Dashboard with:
   - Intern name
-  - Dummy referral code (e.g., srinivas2025)
+  - Dummy referral code (e.g., sheCanFoundation2025)
   - Total donations raised (from MongoDB Atlas)
   - Static rewards/unlockables section
 - Flask backend with API endpoints
-- MongoDB Atlas used for storing dummy data
+- Local Storage used for storing dummy data
