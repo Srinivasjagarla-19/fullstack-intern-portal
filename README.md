@@ -32,6 +32,11 @@ Navigate to the `frontend` directory:
 ```bash
 cd frontend
 ```
+login <br>
+<img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/f2740175-d721-4c6c-813c-8fe4ea8f0d25" />
+
+Signup <br>
+<img width="1919" height="1068" alt="image" src="https://github.com/user-attachments/assets/3042e16a-d7d2-44e6-9bc1-f72e6c9af06e" />
 
 Open `index.html` in your browser directly:
 
@@ -44,17 +49,14 @@ Navigate to the `backend` directory:
 ```bash
 cd backend
 ```
+Dashboard <br>
+<img width="1329" height="968" alt="image" src="https://github.com/user-attachments/assets/1eb9b188-b318-4a29-b9bb-c9a37e99788f" />
 
 Install Python dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
-
-Configure MongoDB Atlas:
-
-- Open `db_config.py`
-- Replace the URI string with your MongoDB Atlas connection string
 
 Run the Flask server:
 
